@@ -9,3 +9,6 @@ Hot Cofee
 Cold cofee
 Tea
 Juice
+
+*** Snacks***
+Chips
